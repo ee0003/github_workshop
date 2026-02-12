@@ -1,5 +1,5 @@
 # github_workshop
 My git repo
 
-Cats
+Cats, Haribo, 
 I was born in March.
